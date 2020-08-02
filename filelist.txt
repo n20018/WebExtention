@@ -1,0 +1,13 @@
+合計 0
+drwxrwxrwx 1 n20018 n20018 4096  8月  2 23:31 .
+drwxrwxrwx 1 n20018 n20018 4096  7月 27 11:03 ..
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter01
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter02
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter03
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter04
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter05
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter06
+drwxrwxrwx 1 n20018 n20018 4096  7月  6 11:12 chapter07
+drwxrwxrwx 1 n20018 n20018 4096  7月  7 16:52 chapter08
+drwxrwxrwx 1 n20018 n20018 4096  7月 20 02:52 chapter09
+-rwxrwxrwx 1 n20018 n20018    0  8月  2 23:31 filelist.txt
