@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+.cyber {
+    background: #1E90FF;
+    width: 380px;
+    height: 100px;
+    color: #ffffff;
+}
+
+.PC {
+    border: solid 1px;
+    margin-bottom: 0.9em;
+    width: 600px;
+}
+.c-boder h2 {
+        border-bottom: solid 10px;
+        width: 1000px;
+        padding: 0.6em;
+} 
+
+h1 { 
+    font-size: 2em;
+
+}
+
+a:hover {
+    color: #FFD700;
+}
+
+a:active {
+    color: #ffffff;
+}
+
+.top {
+    text-align: center;
+}
+
+.sen h2{
+    border-bottom:solid #FFD700; 
+    font-weight: 5px;
+    line-height: 29px;
+}
+
+.it-sp {
+    background: #ff8b1e;
+    width: 380px;
+    height: 100px;
+    color: #ffffff;
+}
+
+.IT-logo {
+    background: rgb(255, 231, 163);
+}
+
+.a {
+    display: inline-block;
+        vertical-align: middle;
+}
+
+.b {
+    display: inline-block;
+        vertical-align: middle;
+}
+
+.c {
+    display: inline-block;
+        vertical-align: middle;
+}
